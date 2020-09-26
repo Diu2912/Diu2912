@@ -1,6 +1,6 @@
 ### Hi there !!! I am Divya Rajput👋
 
-<!--
+
 **Diu2912/Diu2912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...Anything
 - 😄 Pronouns: ...She/Her
 - ⚡ Fun fact: ..I am a workaholic :-P <br>
--->
+
 
 
 
@@ -35,7 +35,7 @@ and Data Science. I am enthusiastically looking forward to contribute to open so
 
 
 ## ⚙ Statistics and Languages 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=Meghna-DAS&show_icons=true&theme=tokyonight"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meghna-DAS&layout=compact&theme=tokyonight"> <br>
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=Diu2912&show_icons=true&theme=tokyonight"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diu2912&layout=compact&theme=tokyonight"> <br>
 
 ## 📫 How to reach me:
 <p align='left'>
@@ -48,4 +48,4 @@ and Data Science. I am enthusiastically looking forward to contribute to open so
 <a href="https://github.com/Diu2912/github-profile-views-counter">
     <img src=https://komarev.com/ghpvc/?username=Diu2912 alt=Diu2912/></p>
 </a>
-<a href="https://github.com/Diu2912?tab=followers"><img src="https://img.shields.io/github/followers/Meghna-DAS?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Diu2912?tab=followers"><img src="https://img.shields.io/github/followers/Diu2912?label=Followers&style=social" alt="GitHub Badge"></a>
