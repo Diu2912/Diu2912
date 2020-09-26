@@ -1,7 +1,7 @@
 ### Hi there !!! I am Divya Rajput👋
 
 
-**Diu2912/Diu2912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -18,12 +18,8 @@ Here are some ideas to get you started:
 
 
 
-
-# Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
 This is Divya here and 
-I am also a content writer and a graphic designer. My hobbies are photography, drawing, blogging and playing the synthesizer. I am greatly interested in learning Cyber Security
-and Data Science. I am enthusiastically looking forward to contribute to open source projects through Github. 
+Experienced Contributor with a demonstrated history of working in the information technology and services industry. Skilled in Flutter, Python (Programming Language), Public Speaking, Data Structures, and Chatbot Development. I am enthusiastically looking forward to contribute to open source projects through Github. 
 
 
 
