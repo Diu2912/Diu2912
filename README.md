@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...She/Her
 - ⚡ Fun fact: ..I am a workaholic :-P <br>
 -->
-## :rainbow: Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=Diu2912 alt=Diu2912/></p>
+
 
 
 
@@ -47,6 +46,6 @@ and Data Science. I am enthusiastically looking forward to contribute to open so
 
 ## ❤ Views and Followers
 <a href="https://github.com/Diu2912/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Meghna-DAS">
+    <img src=https://komarev.com/ghpvc/?username=Diu2912 alt=Diu2912/></p>
 </a>
 <a href="https://github.com/Diu2912?tab=followers"><img src="https://img.shields.io/github/followers/Meghna-DAS?label=Followers&style=social" alt="GitHub Badge"></a>
