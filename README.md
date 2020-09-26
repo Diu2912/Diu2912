@@ -5,14 +5,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...Java
-- 🌱 I’m currently learning ...AWS Cloud Computing and Cyber Security Essentials
+- 🔭 I’m currently working on ...Chaatbot Development
+- 🌱 I’m currently learning ...react.js and MERN Stack
 - 👯 I’m looking to collaborate on ...Open source projects
-- 🤔 I’m looking for help with ...Advanced Python
+- 🤔 I’m looking for help with ...Advanced Python and Machine learning
 - 📃 My blogging website...coming soon
 - 💬 Ask me about ...Anything
 - 😄 Pronouns: ...She/Her
-- ⚡ Fun fact: ..I am a workaholic :-P <br>
+- ⚡ My Quote Line: "Be Persistent !Be Innovative":-P <br>
 
 
 
