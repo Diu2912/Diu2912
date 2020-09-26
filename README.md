@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 📃 My blogging website...coming soon
 - 💬 Ask me about ...Anything
 - 😄 Pronouns: ...She/Her
-- ⚡ My Quote Line: ##"Be Persistent !Be Innovative" <br>
+- ⚡ My Quote Line: ## Be Persistent !Be Innovative <br>
 
 
 
