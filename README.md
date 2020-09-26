@@ -5,14 +5,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...Chaatbot Development
+- 🔭 I’m currently working on ...Chatbot Development
 - 🌱 I’m currently learning ...react.js and MERN Stack
 - 👯 I’m looking to collaborate on ...Open source projects
 - 🤔 I’m looking for help with ...Advanced Python and Machine learning
 - 📃 My blogging website...coming soon
 - 💬 Ask me about ...Anything
 - 😄 Pronouns: ...She/Her
-- ⚡ My Quote Line: "Be Persistent !Be Innovative":-P <br>
+- ⚡ My Quote Line: #"Be Persistent !Be Innovative" <br>
 
 
 
@@ -31,7 +31,7 @@ and Data Science. I am enthusiastically looking forward to contribute to open so
 ## 🚀 Skills
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/blogger-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white">
 
-<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white">  <img src="https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white">  <img src="https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white"> [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Meghna-DAS/)
+<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white">  <img src="https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white">  <img src="https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white"> [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Diu2912)
 
 
 ## ⚙ Statistics and Languages 
